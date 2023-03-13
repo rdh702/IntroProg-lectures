@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "IntroProg-exercises",
+			"path": "../../IntroProg-exercises"
+		},
+		{
+			"name": "projects-2023-jt-2",
+			"path": "../../projects-2023-jt-2"
+		}
+	],
+	"settings": {}
+}
